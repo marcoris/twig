@@ -1,0 +1,12 @@
+{
+    "name": "ris/twig",
+    "authors": [
+        {
+            "name": "Marco Ris",
+            "email": "ris@contria.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
